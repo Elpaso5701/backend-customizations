@@ -8,5 +8,6 @@ def hello_world():
     """Returns Hello, EDP!"""
     return 'Hello, EDP!'
 
+
 if __name__ == '__main__':
     app.run()
